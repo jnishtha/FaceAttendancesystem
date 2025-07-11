@@ -1,0 +1,6 @@
+.env
+__pycache__/
+attendance_log.csv
+*.pyc
+attendance_log.csv
+
