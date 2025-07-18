@@ -97,11 +97,14 @@ FaceAttendancesystem/
 ### ✅ To Do
  Admin panel for viewing all logs
 
+ Email alerts (optional)
+ 
+
 ### 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ### 📃 License
 This project is open source under the MIT License.
 
-### 🙋‍♀️ Created by
+### 🙋‍♀ Created by
 Nishtha Jain
